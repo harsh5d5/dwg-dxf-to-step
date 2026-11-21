@@ -1,0 +1,8 @@
+{
+  "thickness_mm": 0.8,
+  "source": "source/PCI Bracket Blank.dxf",
+  "units": "mm",
+  "thickness_basis": "Assumption: common PC/PCI bracket sheet gauge (~0.8 mm); DXF has no thickness dimension.",
+  "outer_layer": "bracket cut",
+  "hole_layer": "holes"
+}

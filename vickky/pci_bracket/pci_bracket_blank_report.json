@@ -1,0 +1,30 @@
+{
+  "source_dxf": "source/PCI Bracket Blank.dxf",
+  "units": "mm",
+  "valid": true,
+  "solids": 1,
+  "bounds_mm": [
+    21.59,
+    132.43,
+    0.8
+  ],
+  "volume_mm3": 1583.663,
+  "expected_volume_mm3": 1583.663,
+  "volume_difference_mm3": 0.000425,
+  "hole_count": 5,
+  "thickness_mm": 0.8,
+  "assumptions": [
+    "Assumption: common PC/PCI bracket sheet gauge (~0.8 mm); DXF has no thickness dimension.",
+    "Extrusion direction is normal to the DXF drawing plane (+Z)."
+  ],
+  "limitations": [
+    "The DXF has no thickness, material, tolerance, or bend dimensions.",
+    "This is a flat blank only; no formed bends or secondary machining are included."
+  ],
+  "files": [
+    "pci_bracket_blank.step",
+    "pci_bracket_blank.stl",
+    "pci_bracket_blank-preview.png",
+    "pci_bracket_blank-top.png"
+  ]
+}

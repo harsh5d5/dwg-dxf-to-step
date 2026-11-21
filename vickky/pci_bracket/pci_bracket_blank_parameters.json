@@ -1,0 +1,20 @@
+{
+  "source_dxf": "source/PCI Bracket Blank.dxf",
+  "units": "mm",
+  "thickness_mm": 0.8,
+  "thickness_basis": "Assumption: common PC/PCI bracket sheet gauge (~0.8 mm); DXF has no thickness dimension.",
+  "outer_layer": "bracket cut",
+  "hole_layer": "holes",
+  "hole_count": 5,
+  "outer_area_mm2": 2338.433,
+  "hole_area_mm2": 358.853,
+  "net_area_mm2": 1979.579,
+  "expected_volume_mm3": 1583.663,
+  "bounds_mm": [
+    -3.19,
+    0.0,
+    18.4,
+    132.43
+  ],
+  "note": "The extrusion thickness is an assumption; the DXF contains only a flat 2D profile."
+}
