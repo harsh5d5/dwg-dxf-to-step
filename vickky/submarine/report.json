@@ -1,0 +1,44 @@
+{
+  "passed": true,
+  "checks": {
+    "valid": true,
+    "singleSolid": true,
+    "bounds": true,
+    "positiveVolume": true,
+    "projection_front": true,
+    "projection_top": true,
+    "projection_right": true,
+    "featureCount": true
+  },
+  "bounds": [
+    8000.0,
+    6000.000000000002,
+    6000.0
+  ],
+  "volume_mm3": 226172914424.07788,
+  "units": "mm",
+  "projectionChecks": [
+    {
+      "view": "front",
+      "difference_mm2": 0.0,
+      "tolerance_mm2": 479.99999999999994
+    },
+    {
+      "view": "top",
+      "difference_mm2": 0.0,
+      "tolerance_mm2": 480.00000000000006
+    },
+    {
+      "view": "right",
+      "difference_mm2": 0.0,
+      "tolerance_mm2": 282.71614303009596
+    }
+  ],
+  "projectionSource": "切孔前的多視圖外形",
+  "features": [],
+  "scope": "多視圖外輪廓交集（HULL 圖層：正面／俯視／端面）；未含內部艙板、設備、孔槽與公差。",
+  "limitations": [
+    "多視圖外輪廓交集（HULL 圖層：正面／俯視／端面）；未含內部艙板、設備、孔槽與公差。",
+    "使用向量幾何尺寸，未驗證所有標註或公差與線條一致。"
+  ]
+}

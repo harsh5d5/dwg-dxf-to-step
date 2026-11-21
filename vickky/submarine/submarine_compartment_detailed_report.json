@@ -1,0 +1,34 @@
+{
+  "source_dxf": "source/submarine_compartment_2D.dxf",
+  "source_pdf": "source/submarine_compartment_detailed_drawings.pdf",
+  "method": "Per-layer three-view reconstruction from DXF, guided by the 44-item PDF part list; polygons cleaned and degenerate solids removed.",
+  "component_count": 44,
+  "component_counts_by_layer": {
+    "BATTERY": 4,
+    "BULKHEAD": 2,
+    "DECK": 1,
+    "FRAME": 7,
+    "HANGER": 4,
+    "HULL": 1,
+    "MOTOR": 2,
+    "PIPE": 9,
+    "PUMP": 4,
+    "TANK": 2,
+    "VALVE": 8
+  },
+  "solid_count": 84,
+  "invalid_solids": 0,
+  "valid": true,
+  "bounds_mm": [
+    8000.0,
+    5999.75,
+    5999.51
+  ],
+  "volume_mm3": 27083710426,
+  "files": [
+    "submarine_compartment_detailed.step",
+    "submarine_compartment_detailed.stl",
+    "submarine_compartment_detailed-preview.png",
+    "submarine_compartment_detailed_manifest.json"
+  ]
+}
