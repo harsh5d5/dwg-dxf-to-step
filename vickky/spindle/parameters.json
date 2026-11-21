@@ -1,0 +1,18 @@
+{
+  "source_image": "source/1_spindle_clean.png",
+  "title": "SPINDLE",
+  "material_note": "EN19",
+  "raw_stock_note": "Dia 36 x 88 mm",
+  "units": "mm",
+  "flange_diameter_mm": 33.0,
+  "flange_length_mm": 10.0,
+  "main_diameter_mm": 25.0,
+  "main_length_mm": 58.34,
+  "tip_diameter_mm": 24.0,
+  "tip_length_mm": 15.0,
+  "transition_length_mm": 1.66,
+  "bore_diameter_mm": 15.0,
+  "fillet_radius_mm": 3.0,
+  "fillet_count": 2,
+  "interpretation": "The drawing labels 16.66 mm from the end of the 58.34 mm main section to the right face, and 15.00 mm for the final tip. The remaining 1.66 mm is modelled as part of the D25 shoulder. The D15 circle in the side view is modelled as a through bore."
+}

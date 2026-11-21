@@ -1,0 +1,43 @@
+{
+  "source_image": "source/1_spindle_clean.png",
+  "title": "SPINDLE",
+  "material_note": "EN19",
+  "units": "mm",
+  "valid": true,
+  "solids": 1,
+  "bounds_mm": [
+    33.0,
+    33.0,
+    85.0
+  ],
+  "volume_mm3": 29440.921,
+  "modelled_dimensions_mm": {
+    "overall_length": 85.0,
+    "flange_diameter": 33.0,
+    "flange_length": 10.0,
+    "main_diameter": 25.0,
+    "main_to_transition": 58.34,
+    "transition": 1.66,
+    "tip_diameter": 24.0,
+    "tip_length": 15.0,
+    "bore_diameter": 15.0,
+    "fillet_radius": 3.0,
+    "fillet_count": 2
+  },
+  "interpretations": [
+    "The drawing labels 16.66 mm from the end of the 58.34 mm main section to the right face, and 15.00 mm for the final tip. The remaining 1.66 mm is modelled as part of the D25 shoulder. The D15 circle in the side view is modelled as a through bore.",
+    "The D15 concentric circle in the side view is modelled as a through bore.",
+    "The two R3 fillets are applied to the D33 flange outer shoulder and the D24 tip outer end edge."
+  ],
+  "limitations": [
+    "This is reconstructed from a raster image, not the original CAD/DXF.",
+    "Hidden lines are absent, so the bore depth/fillets are interpretations.",
+    "Material EN19 and raw stock D36x88 are drawing notes only; no material model is assigned."
+  ],
+  "files": [
+    "spindle.step",
+    "spindle.stl",
+    "spindle-preview.png",
+    "spindle-front.png"
+  ]
+}
