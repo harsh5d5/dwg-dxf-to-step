@@ -48,3 +48,8 @@ node_modules/
 venv/
 *.gguf
 *.safetensors
+
+# Allow vickky workspace models, drawings and exports
+!vickky/**
+vickky/**/.cache/
+vickky/**/__pycache__/
