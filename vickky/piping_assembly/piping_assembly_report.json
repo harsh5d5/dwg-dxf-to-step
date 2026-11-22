@@ -1,0 +1,81 @@
+{
+  "title": "Piping Assembly - 2D Drawing",
+  "project": "Ship Piping System",
+  "drawing_no": "SP-001",
+  "date": "2025-11-20",
+  "drawn_by": "Rohit Shimpi",
+  "units": "mm",
+  "printed_dimensions": {
+    "overall_length_mm": 2500.0,
+    "overall_height_mm": 1200.0,
+    "transverse_offset_mm": 900.0,
+    "flange_diameter_mm": 400.0,
+    "segment_1_length_mm": 600.0,
+    "segment_2_length_mm": 1200.0,
+    "segment_3_length_mm": 700.0
+  },
+  "bounds_mm": [
+    2600.0,
+    536.0,
+    1200.0
+  ],
+  "solid_count": 1,
+  "valid": true,
+  "volume_mm3": 119820228.85,
+  "parts_list": [
+    {
+      "no": 1,
+      "name": "Pipe",
+      "qty": 1,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 2,
+      "name": "Elbow 90°",
+      "qty": 1,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 3,
+      "name": "Flange",
+      "qty": 2,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 4,
+      "name": "Motor",
+      "qty": 1,
+      "material": "Cast Iron"
+    },
+    {
+      "no": 5,
+      "name": "Reducer",
+      "qty": 1,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 6,
+      "name": "Valve",
+      "qty": 1,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 7,
+      "name": "Support",
+      "qty": 2,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 8,
+      "name": "Tee",
+      "qty": 1,
+      "material": "Carbon Steel"
+    },
+    {
+      "no": 9,
+      "name": "Handwheel",
+      "qty": 1,
+      "material": "Carbon Steel"
+    }
+  ]
+}
