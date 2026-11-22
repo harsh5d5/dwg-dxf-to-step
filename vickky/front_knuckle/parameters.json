@@ -1,0 +1,44 @@
+{
+  "source_image": "source/2_front_knuckle_clean.png",
+  "title": "FRONT KNUCKLE",
+  "material_note": "AL 7075 T6",
+  "scale_note": "1:2",
+  "sheet": "A4",
+  "process_note": "MCN",
+  "raw_material_note": "105x130x80",
+  "units": "mm",
+  "printed_dimensions": {
+    "overall_height_mm": 129.66,
+    "top_width_mm": 28.00,
+    "main_hole_diameter_mm": 25.00,
+    "mount_hole_diameter_mm": 8.00
+  },
+  "interpreted_dimensions": {
+    "spine_width_mm": 28.00,
+    "spine_thickness_mm": 26.00,
+    "main_hub_outer_diameter_mm": 48.00,
+    "main_hub_center_z_mm": 96.66,
+    "caliper_upper_hole_x_mm": -28.00,
+    "caliper_upper_hole_z_mm": 110.00,
+    "caliper_lower_hole_x_mm": -31.00,
+    "caliper_lower_hole_z_mm": 72.50,
+    "caliper_ear_thickness_mm": 10.00,
+    "steering_clevis_top_z_mm": 70.00,
+    "steering_clevis_bottom_z_mm": 38.00,
+    "steering_clevis_prong_thickness_mm": 7.00,
+    "steering_clevis_slot_height_mm": 18.00,
+    "steering_clevis_hole_x_mm": 48.00,
+    "steering_clevis_hole_y_mm": 19.00,
+    "top_lug_hole_y_mm": 42.00,
+    "bottom_lug_hole_y_mm": 46.00
+  },
+  "interpretation_notes": [
+    "Reconstructed from official SolidWorks drawing: FRONT KNUCKLE (AL 7075 T6, stock 105x130x80 mm).",
+    "Overall height 129.66 mm exactly matches printed dimension from bottom lug to top lug.",
+    "Central bearing hub contains printed Ø25.00 mm through bore along the wheel axis.",
+    "Left side carries two disc brake caliper mounting ears with printed Ø8.00 mm holes.",
+    "Right side carries the steering arm with double-shear clevis fork and Ø8.00 mm through holes.",
+    "C-shaped upright spine connects upper and lower A-arm wishbone ball-joint lugs (Ø8.00 mm vertical holes).",
+    "All dimensions fit cleanly within the 105 x 130 x 80 mm raw material billet."
+  ]
+}
