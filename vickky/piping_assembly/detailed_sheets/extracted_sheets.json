@@ -1,0 +1,52 @@
+[
+  {
+    "page": 1,
+    "image": "sheet_01.png",
+    "text": "Assembly — SHIP_PIPING_SYSTEM\n600 1200 700\n2500\nSHIP_PIPING_SYSTEM · Sheet 1 of 10 · Units: MM · Scale: NTS\n0021\n004\n2500\n004\n400\n0021\nNo. Part Name Qty. Material\n1 Pipe 1 Carbon Steel\n2 Elbow 90° 1 Carbon Steel\n3 Flange 2 Carbon Steel\n4 Motor 1 Cast Iron\n5 Reducer 1 Carbon Steel\n6 Valve 1 Carbon Steel\n4\n7 Support 2 Carbon Steel\n8 Tee 1 Carbon Steel\n3 2 9 1 5\n9 Handwheel 1 Carbon Steel\nISOMETRIC VIEW\nTOP VIEW\n3\n6\n9\n4\n1\n5\n6\n2 7\nRIGHT SIDE VIEW\nProject: Scale:\nNOTES: Ship Piping System 1:10\nFRONT VIEW\n1. All dimensions are in millimeters (mm).\nDrawing Title: Date:\n2. Tolerances: ±5 mm (unless otherwise specified).\n3. Material as per parts list. Piping Assembly – 2D Drawing 2025-11-20\n4. Welds as per standard procedure.\nDrawing No.: Drawn By:\n5. Orthographic views to scale 1:10; isometric NTS. Sizes not given on SP-001 are assumed.\n6. Item 8 (Tee) is in the BOM; its location is not shown on SP-001. SP-001 Rohit Shimpi"
+  },
+  {
+    "page": 2,
+    "image": "sheet_02.png",
+    "text": "Item 1 — PIPE (qty 1)\n900\nSHIP_PIPING_SYSTEM · Sheet 2 of 10 · Units: MM · Scale: NTS\n043Ø\nØ220 x 10 WALL\n30\nØ200 BORE\n043\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nØ340 FLANGE\n12X Ø22 ON PCD Ø295\nØ200 BORE\nPART: PIPE FAMILY: PIPE\nUNITS: MM SCALE: 1:10 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 3,
+    "image": "sheet_03.png",
+    "text": "Item 2 — ELBOW 90° (qty 1)\n660\nSHIP_PIPING_SYSTEM · Sheet 3 of 10 · Units: MM · Scale: NTS\n088\n300\n025\nØ220 x 10 WALL\nR250 (CL)\n022Ø\n660\nØ220\nØ200 BORE\n088\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nPART: ELBOW 90° FAMILY: ELBOW 90°\nUNITS: MM SCALE: 1:20 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 4,
+    "image": "sheet_04.png",
+    "text": "Item 3 — FLANGE (qty 2)\n30\nSHIP_PIPING_SYSTEM · Sheet 4 of 10 · Units: MM · Scale: NTS\n002Ø 043Ø\nTOP VIEW\n30\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nØ340\n12X Ø22 ON PCD Ø295\nØ200 BORE\nPART: FLANGE FAMILY: FLANGE\nUNITS: MM SCALE: 1:5 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 5,
+    "image": "sheet_05.png",
+    "text": "Item 4 — MOTOR (qty 1)\n440\n340 BODY 80\nSHIP_PIPING_SYSTEM · Sheet 5 of 10 · Units: MM · Scale: NTS\n076\nLC\n004\nTERMINAL BOX 140 x 140 x 70\n004\n20\nØ400 BODY\nØ285 FLANGE\nØ360 FAN COVER\nBASE 400 x 420 x 25\n076\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nPART: MOTOR FAMILY: MOTOR\nUNITS: MM SCALE: 1:10 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CAST IRON"
+  },
+  {
+    "page": 6,
+    "image": "sheet_06.png",
+    "text": "Item 5 — REDUCER (qty 1)\n30 30\n170\nSHIP_PIPING_SYSTEM · Sheet 6 of 10 · Units: MM · Scale: NTS\n043Ø 582Ø\nTOP VIEW\n110\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nØ220 TO Ø170 Ø340\n12X Ø22 ON PCD Ø295\nØ200 / Ø150 BORE\nØ285\nPART: REDUCER FAMILY: REDUCER\nUNITS: MM SCALE: 1:5 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 7,
+    "image": "sheet_07.png",
+    "text": "Item 6 — VALVE (qty 1)\n300 FACE-TO-FACE\nSHIP_PIPING_SYSTEM · Sheet 7 of 10 · Units: MM · Scale: NTS\n043Ø\n035\nØ36 STEM\nØ120 YOKE\nØ160 BONNET\nØ280 BODY\n043\n300\nØ340\n12X Ø22 ON PCD Ø295\nØ200 BORE\n007\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nPART: VALVE FAMILY: VALVE\nUNITS: MM SCALE: 1:10 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 8,
+    "image": "sheet_08.png",
+    "text": "Item 7 — SUPPORT (qty 2)\n220\nSHIP_PIPING_SYSTEM · Sheet 8 of 10 · Units: MM · Scale: NTS\n092\n100\n61\n160\nØ100 COLUMN\n022\n4X Ø18 THRU\n220\n092\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\n220 PAD\nPART: SUPPORT FAMILY: SUPPORT\nUNITS: MM SCALE: 1:5 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 9,
+    "image": "sheet_09.png",
+    "text": "Item 8 — TEE (qty 1)\n600\n300\nSHIP_PIPING_SYSTEM · Sheet 9 of 10 · Units: MM · Scale: NTS\n022Ø\n003\nØ220\nØ200 BORE 600\nØ220 x 10 WALL\nØ220\nØ200 BORE\n003\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\nPART: TEE FAMILY: TEE\nUNITS: MM SCALE: 1:10 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  },
+  {
+    "page": 10,
+    "image": "sheet_10.png",
+    "text": "Item 9 — HANDWHEEL (qty 1)\n350\nSHIP_PIPING_SYSTEM · Sheet 10 of 10 · Units: MM · Scale: NTS\nMIR\n52\nBUH\n06\nØ350\nØ300 (RIM ID)\n6X SPOKES (14 WIDE)\nØ70 HUB Ø36 BORE\nBUH\n06\nTOP VIEW\nISOMETRIC (NTS)\nFRONT VIEW RIGHT SIDE VIEW\n350\nPART: HANDWHEEL FAMILY: HANDWHEEL\nUNITS: MM SCALE: 1:5 THIRD ANGLE PROJECTION\nUNLESS NOTED: TOL ±5 MATERIAL: CARBON STEEL"
+  }
+]
