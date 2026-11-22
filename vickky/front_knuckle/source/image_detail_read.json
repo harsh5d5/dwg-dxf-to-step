@@ -1,0 +1,92 @@
+[
+  {
+    "tile": "r1c1",
+    "box": [
+      0,
+      0,
+      1345,
+      1113
+    ],
+    "image_size": [
+      1345,
+      1113
+    ],
+    "elapsed_s": 27.1,
+    "text": "Front View:  \n- Total height: 129.66  \n- Top width: 28.00  \n- Central hole diameter: Φ25.00  \n- Side hole diameter: Φ8.00  \n- Two mounting holes (each with a cross symbol) are located at the top and bottom of the central circular feature.  \n- A U-shaped protrusion extends from the right side.  \n- The base plate has a thickness of 8.00 (implied by the Φ8.00 dimension, likely referring to the hole diameter).  \n- The drawing shows a mechanical component with a central circular feature, two mounting holes, a U-shaped extension, and a rectangular base."
+  },
+  {
+    "tile": "r1c2",
+    "box": [
+      624,
+      0,
+      1969,
+      1113
+    ],
+    "image_size": [
+      1345,
+      1113
+    ],
+    "elapsed_s": 17.3,
+    "text": "Front view:  \n- Dimension: 28.00 (horizontal, top of part)  \n- Dimension: Φ25.00 (diameter of central hole)  \n- Two small circles with plus signs (likely bolt holes, but no diameter or distance specified)  \n- Two vertical lines (likely representing thickness or depth, but no numerical values)  \n- Text: \"FRONT VIEW\" (at bottom)"
+  },
+  {
+    "tile": "r1c3",
+    "box": [
+      1681,
+      0,
+      3026,
+      1113
+    ],
+    "image_size": [
+      1345,
+      1113
+    ],
+    "elapsed_s": 12.2,
+    "text": "No dimension numbers or text are visible in this crop. The only text is \"SIDE VIEW\" located below the drawing. The drawing shows a side view of a curved, C-shaped bracket with a rectangular mounting plate and a series of horizontal ribs along its inner surface."
+  },
+  {
+    "tile": "r2c1",
+    "box": [
+      0,
+      635,
+      1345,
+      1748
+    ],
+    "image_size": [
+      1345,
+      1113
+    ],
+    "elapsed_s": 14.4,
+    "text": "No dimension numbers or text are visible in this crop. The only text is \"FRONT VIEW\" under the top view. The drawing shows a front view of a rectangular base plate with a slot and a top view of a bracket with two holes, and a 3D isometric view of a complex mechanical part with multiple holes and slots."
+  },
+  {
+    "tile": "r2c2",
+    "box": [
+      624,
+      635,
+      1969,
+      1748
+    ],
+    "image_size": [
+      1345,
+      1113
+    ],
+    "elapsed_s": 24.2,
+    "text": "Front view: no dimension numbers or text visible. Geometry: a mechanical component with a curved main body, a circular hole, two parallel flanges with circular holes, and a rectangular protrusion with a cutout."
+  },
+  {
+    "tile": "r2c3",
+    "box": [
+      1681,
+      635,
+      3026,
+      1748
+    ],
+    "image_size": [
+      1345,
+      1113
+    ],
+    "elapsed_s": 11.4,
+    "text": "SIDE VIEW\n\nTITLE\nMATERIAL\nSCALE\nSHEET\nRAW MAERIAL\nDIMENSIONS\n\nFRONT KN\nAL 707\n1:2\nA4\n105x130"
+  }
+]

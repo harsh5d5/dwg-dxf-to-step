@@ -1,0 +1,52 @@
+[
+  {
+    "job": "tile_r1c1",
+    "elapsed_s": 33.8,
+    "text": "- Silhouette: A central cylindrical body with two symmetrical flanges at top and bottom, a U-shaped slot on the right, and a rectangular protrusion on the left.\n- Holes: Two circular holes with diameter 8.00, located symmetrically on the left side of the central body, each with a crosshair symbol. One circular hole with diameter 25.00 is centered at the top of the central body.\n- Slots: A U-shaped slot on the right side, extending from the central body to the right edge.\n- Flanges: Two flanges — one at the top (with a 28.00 width) and one at the bottom (with a 28.00 width) — both are rectangular and extend horizontally from the central body.\n- Ribs: No ribs are visible.\n- Dimensions: 28.00, 25.00, 8.00, 129.66."
+  },
+  {
+    "job": "tile_r1c2",
+    "elapsed_s": 25.7,
+    "text": "- Silhouette: U-shaped with a curved outer edge and a rectangular cutout on the inner side.\n- Holes: None visible.\n- Slots: None visible.\n- Flanges: None visible.\n- Ribs: Vertical ribs on the inner curved surface, extending from top to bottom.\n- Relative positions: Ribs are aligned vertically along the inner curved surface, with the top rib slightly offset from the top edge.\n- Numeric dimension: Ø25.00"
+  },
+  {
+    "job": "tile_r1c3",
+    "elapsed_s": 19.9,
+    "text": "No numeric dimensions visible.  \nSilhouette: C-shaped profile with vertical flange at top and bottom.  \nHoles: None.  \nSlots: None.  \nFlanges: Top flange (rectangular, horizontal); bottom flange (rectangular, horizontal).  \nRibs: Vertical ribs (four horizontal, parallel) between top and bottom flanges.  \nRelative positions: Top flange extends horizontally from top curve; bottom flange extends horizontally from bottom curve; ribs are vertically aligned between flanges."
+  },
+  {
+    "job": "tile_r2c1",
+    "elapsed_s": 25.6,
+    "text": "No numeric dimensions visible.  \nSilhouette: Complex, non-symmetrical, multi-lobed shape with curved and angular sections.  \nHoles: Three circular holes — one large circular hole on top surface, two smaller circular holes on lower flange.  \nSlots: One rectangular slot on top surface, one rectangular slot on side surface.  \nFlanges: Two flanges — one large curved flange at bottom, one smaller rectangular flange at top.  \nRibs: Multiple rectangular ribs — four vertical ribs on main body, one horizontal rib connecting top and bottom flanges.  \nRelative positions: Top flange is attached to main body, bottom flange is attached to main body, ribs are vertically aligned along main body, slots are located on top and side surfaces."
+  },
+  {
+    "job": "tile_r2c2",
+    "elapsed_s": 18.0,
+    "text": "No numeric dimensions visible.  \nSilhouette: complex mechanical assembly with multiple interconnected parts.  \nHoles: circular holes present in several components.  \nSlots: no slots visible.  \nFlanges: no flanges visible.  \nRibs: no ribs visible.  \nRelative positions: parts are arranged in a stacked, interlocking configuration.  \nText: “SIDE VIEW”, “ISOMETRIC VIEW”, “For Instructional Use Only.”"
+  },
+  {
+    "job": "tile_r2c3",
+    "elapsed_s": 16.4,
+    "text": "No geometry described. No holes, slots, flanges, ribs, or other features visible. No numeric dimensions transcribed beyond those in the table: 105x130x80 (raw material dimensions), scale 1:2, material AL 7075 T6, sheet A4, manufacturing processes MCN. All dimensions in mm."
+  },
+  {
+    "job": "all_dimensions",
+    "elapsed_s": 34.9,
+    "text": "\"28.00\" is printed above the top horizontal dimension line in the FRONT VIEW.\n\"129.66\" is printed vertically along the left side of the FRONT VIEW.\n\"Φ8.00\" is printed diagonally near the bottom left of the FRONT VIEW.\n\"Φ25.00\" is printed diagonally near the top right of the FRONT VIEW.\n\"105x130x80\" is printed in the RAW MATERIAL DIMENSIONS field of the title block.\n\"1:2\" is printed in the SCALE field of the title block.\n\"AL 7075 T6\" is printed in the MATERIAL field of the title block.\n\"MCN\" is printed in the MANUFACTURING PROCESSES field of the title block.\n\"ALL DIMENSIONS ARE IN MM\" is printed below the title block."
+  },
+  {
+    "job": "front_geometry",
+    "elapsed_s": 18.4,
+    "text": "Front view outline: rectangular base plate (top: y≈200–300, bottom: y≈0–100), central circular feature (center: x≈250, y≈150), two small holes (top: x≈180, y≈100; bottom: x≈180, y≈200), U-shaped feature (top: y≈300–400, bottom: y≈400–500). Base plate thickness ≈ 20% of total height (129.66 mm)."
+  },
+  {
+    "job": "side_geometry",
+    "elapsed_s": 21.7,
+    "text": "The SIDE VIEW shows a vertically oriented, C-shaped component with a curved body and a rectangular base plate. The base plate depth is approximately 20% of the total height (129.66 mm), estimated at 26 mm. The curved body extends upward from the base plate, with a rounded inner edge and a flat outer edge. The component features three horizontal ribs: one near the base plate, one mid-height, and one near the top, each roughly 10 mm wide and spaced 30 mm apart. There is a single circular hole near the top, with a diameter of approximately 25 mm, aligned with the center of the curved body. No other holes or features are visible."
+  },
+  {
+    "job": "iso_geometry",
+    "elapsed_s": 11.2,
+    "text": "The isometric view shows a 3D mechanical part with a main U-shaped bracket that opens upward (toward the viewer). The base plate is the flat, rectangular bottom section with two mounting holes on its left side. The U-shaped bracket has a central circular hole, two smaller holes on the top flange (for mounting), and a cutout on the right side for a U-shaped attachment or fitting."
+  }
+]
