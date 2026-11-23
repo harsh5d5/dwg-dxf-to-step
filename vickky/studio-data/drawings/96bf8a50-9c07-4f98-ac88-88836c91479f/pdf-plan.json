@@ -1,0 +1,19 @@
+{
+  "decision": "question",
+  "message": "需要核對：底座厚度\n主體必要資料或工具能力仍不足，未啟動建模；不估算缺少尺寸。",
+  "assumptions": [],
+  "expectedBounds": [],
+  "operations": [],
+  "missingDimensions": [
+    "底座厚度",
+    "側面延伸長度",
+    "U形槽深度",
+    "所有孔位精確深度與位置",
+    "螺紋孔（M2/M3）",
+    "曲面倒角半徑"
+  ],
+  "unsupportedFeatures": [],
+  "skippedFeatures": [],
+  "blockingDimensions": [],
+  "dimensionEvidence": []
+}
