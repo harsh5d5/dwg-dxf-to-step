@@ -1,0 +1,110 @@
+{
+  "item1_pipe": {
+    "step": "components/item1_pipe.step",
+    "stl": "components/item1_pipe.stl",
+    "bounds_mm": [
+      900.0,
+      340.0,
+      340.0
+    ],
+    "volume_mm3": 8830639.96,
+    "solids": 1,
+    "valid": true
+  },
+  "item2_elbow": {
+    "step": "components/item2_elbow.step",
+    "stl": "components/item2_elbow.stl",
+    "bounds_mm": [
+      770.0,
+      220.0,
+      990.0
+    ],
+    "volume_mm3": 9452009.51,
+    "solids": 1,
+    "valid": true
+  },
+  "item3_flange": {
+    "step": "components/item3_flange.step",
+    "stl": "components/item3_flange.stl",
+    "bounds_mm": [
+      30.0,
+      340.0,
+      340.0
+    ],
+    "volume_mm3": 1644435.26,
+    "solids": 1,
+    "valid": true
+  },
+  "item4_motor": {
+    "step": "components/item4_motor.step",
+    "stl": "components/item4_motor.stl",
+    "bounds_mm": [
+      440.0,
+      400.0,
+      670.0
+    ],
+    "volume_mm3": 69186302.82,
+    "solids": 1,
+    "valid": true
+  },
+  "item5_reducer": {
+    "step": "components/item5_reducer.step",
+    "stl": "components/item5_reducer.stl",
+    "bounds_mm": [
+      170.0,
+      340.0,
+      340.0
+    ],
+    "volume_mm3": 3668665.49,
+    "solids": 1,
+    "valid": true
+  },
+  "item6_valve": {
+    "step": "components/item6_valve.step",
+    "stl": "components/item6_valve.stl",
+    "bounds_mm": [
+      300.0,
+      340.0,
+      705.0
+    ],
+    "volume_mm3": 14993701.91,
+    "solids": 1,
+    "valid": true
+  },
+  "item7_support": {
+    "step": "components/item7_support.step",
+    "stl": "components/item7_support.stl",
+    "bounds_mm": [
+      220.0,
+      220.0,
+      300.0
+    ],
+    "volume_mm3": 3492806.48,
+    "solids": 1,
+    "valid": true
+  },
+  "item8_tee": {
+    "step": "components/item8_tee.step",
+    "stl": "components/item8_tee.stl",
+    "bounds_mm": [
+      600.0,
+      410.0,
+      220.0
+    ],
+    "volume_mm3": 5434096.82,
+    "solids": 1,
+    "valid": true
+  },
+  "item9_handwheel": {
+    "step": "components/item9_handwheel.step",
+    "stl": "components/item9_handwheel.stl",
+    "bounds_mm": [
+      350.0,
+      350.0,
+      60.0
+    ],
+    "volume_mm3": 1049947.14,
+    "solids": 1,
+    "valid": true
+  }
+}
